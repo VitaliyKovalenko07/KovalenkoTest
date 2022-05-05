@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca2f508c886d40599ae27d92607be04c, type: 3}
+  m_Name: AnimalVoiceActingDatabase
+  m_EditorClassIdentifier: 
+  animalVoiceActingVos:
+  - AnimalType: 0
+    AnimalStartAudio: {fileID: 8300000, guid: 296356deda2cd4146b8a93db96c6ce06, type: 3}
+  - AnimalType: 1
+    AnimalStartAudio: {fileID: 8300000, guid: 4199238cbabe5a949a833b231df99f54, type: 3}
+  - AnimalType: 2
+    AnimalStartAudio: {fileID: 8300000, guid: c3012fc788b072548b44f1a78fb4b8fd, type: 3}
+  - AnimalType: 3
+    AnimalStartAudio: {fileID: 8300000, guid: 88e86ddd60960b44393fea3c1fdf0002, type: 3}
+  - AnimalType: 4
+    AnimalStartAudio: {fileID: 8300000, guid: 466d301c17ce5954a9bfc64fe90b2a4a, type: 3}
+  - AnimalType: 5
+    AnimalStartAudio: {fileID: 8300000, guid: d859a8d9a1508084ab902441f802e162, type: 3}

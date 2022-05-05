@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 028189dcef454650ade5ca8223bfdbb9, type: 3}
+  m_Name: SpineAnimationDatabase
+  m_EditorClassIdentifier: 
+  spineAnimationVos:
+  - AnimalType: 0
+    SpineAnimationDataVos:
+    - AnimationType: 1
+      TrackIndex: 0
+      AnimationName: No
+    - AnimationType: 2
+      TrackIndex: 0
+      AnimationName: Happy_Jump
+    - AnimationType: 3
+      TrackIndex: 0
+      AnimationName: Sad
+    - AnimationType: 4
+      TrackIndex: 0
+      AnimationName: Tap
+    - AnimationType: 0
+      TrackIndex: 0
+      AnimationName: Idle
+  - AnimalType: 1
+    SpineAnimationDataVos:
+    - AnimationType: 1
+      TrackIndex: 0
+      AnimationName: No
+    - AnimationType: 2
+      TrackIndex: 0
+      AnimationName: Jump
+    - AnimationType: 3
+      TrackIndex: 0
+      AnimationName: Sad
+    - AnimationType: 4
+      TrackIndex: 0
+      AnimationName: Tap
+    - AnimationType: 0
+      TrackIndex: 0
+      AnimationName: Idle
+  - AnimalType: 2
+    SpineAnimationDataVos:
+    - AnimationType: 1
+      TrackIndex: 0
+      AnimationName: No
+    - AnimationType: 2
+      TrackIndex: 0
+      AnimationName: Jump
+    - AnimationType: 3
+      TrackIndex: 0
+      AnimationName: Sad
+    - AnimationType: 4
+      TrackIndex: 0
+      AnimationName: Tap
+    - AnimationType: 0
+      TrackIndex: 0
+      AnimationName: Idle
+  - AnimalType: 3
+    SpineAnimationDataVos:
+    - AnimationType: 1
+      TrackIndex: 0
+      AnimationName: Idle_say_no
+    - AnimationType: 2
+      TrackIndex: 0
+      AnimationName: Dance
+    - AnimationType: 3
+      TrackIndex: 0
+      AnimationName: sad
+    - AnimationType: 4
+      TrackIndex: 0
+      AnimationName: Tap
+    - AnimationType: 0
+      TrackIndex: 0
+      AnimationName: Idle
+  - AnimalType: 4
+    SpineAnimationDataVos:
+    - AnimationType: 1
+      TrackIndex: 0
+      AnimationName: No
+    - AnimationType: 2
+      TrackIndex: 0
+      AnimationName: Jump
+    - AnimationType: 3
+      TrackIndex: 0
+      AnimationName: Sad
+    - AnimationType: 4
+      TrackIndex: 0
+      AnimationName: Tap
+    - AnimationType: 0
+      TrackIndex: 0
+      AnimationName: Idle
+  - AnimalType: 5
+    SpineAnimationDataVos:
+    - AnimationType: 1
+      TrackIndex: 0
+      AnimationName: No
+    - AnimationType: 2
+      TrackIndex: 0
+      AnimationName: Jump
+    - AnimationType: 3
+      TrackIndex: 0
+      AnimationName: Sad
+    - AnimationType: 4
+      TrackIndex: 0
+      AnimationName: Tap
+    - AnimationType: 0
+      TrackIndex: 0
+      AnimationName: Idle

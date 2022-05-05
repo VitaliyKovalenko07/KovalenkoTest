@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 127111e7d43c41dd8b382145123d38b3, type: 3}
+  m_Name: AnimalTailsDatabase
+  m_EditorClassIdentifier: 
+  animalTailVos:
+  - AnimalType: 0
+    PanelType: 1
+    AnimalTail: {fileID: 21300000, guid: 4916e668fa143bf49ac719d7d015b557, type: 3}
+    SpawnPlace: {x: -350, y: 300}
+  - AnimalType: 1
+    PanelType: 1
+    AnimalTail: {fileID: 21300000, guid: 3dd87a8682a0ac842ae7cf4cf1d232e6, type: 3}
+    SpawnPlace: {x: -300, y: -300}
+  - AnimalType: 2
+    PanelType: 0
+    AnimalTail: {fileID: 21300000, guid: e8910f670eae41d40944cc87254b8451, type: 3}
+    SpawnPlace: {x: 150, y: -300}
+  - AnimalType: 3
+    PanelType: 0
+    AnimalTail: {fileID: 21300000, guid: 61551e97dd3235544a9a30cf270529f6, type: 3}
+    SpawnPlace: {x: 200, y: 300}
+  - AnimalType: 4
+    PanelType: 1
+    AnimalTail: {fileID: 21300000, guid: 22ecd7936b2f4f24da182bb765cc70e5, type: 3}
+    SpawnPlace: {x: -150, y: 0}
+  - AnimalType: 5
+    PanelType: 0
+    AnimalTail: {fileID: 21300000, guid: 21fb98300ad87ad4a9309002c607d29d, type: 3}
+    SpawnPlace: {x: 350, y: 0}

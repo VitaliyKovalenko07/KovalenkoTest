@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04cca9d0e4594cb1a1f69f16e3036c97, type: 3}
+  m_Name: MenuUiPrefabInstaller
+  m_EditorClassIdentifier: 
+  canvas: {fileID: 5340264655201924833, guid: 1e53308ab05b01a43b69de8c0d8e1444, type: 3}
+  mainMenuView: {fileID: 122903423592101460, guid: 608341d6dec6b9741901814631b087db,
+    type: 3}
+  menuAnimalLevelItemView: {fileID: 6673850142798580228, guid: 6e169d5d7913db74691249a7484d47b8,
+    type: 3}

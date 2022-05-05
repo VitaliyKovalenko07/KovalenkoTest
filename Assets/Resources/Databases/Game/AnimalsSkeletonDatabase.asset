@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9e2ba2a4a44c1b9dbb4cb5507765a1, type: 3}
+  m_Name: AnimalsSkeletonDatabase
+  m_EditorClassIdentifier: 
+  animalSkeletonVos:
+  - AnimalType: 0
+    AnimalSkeleton: {fileID: 11400000, guid: 095ddfb4a5b4543459f6cf3c9d550bd8, type: 2}
+  - AnimalType: 1
+    AnimalSkeleton: {fileID: 11400000, guid: 226729d7b0d5b874bbf587a4660d7e05, type: 2}
+  - AnimalType: 2
+    AnimalSkeleton: {fileID: 11400000, guid: 088a360a7870d064696af34c46006e6d, type: 2}
+  - AnimalType: 3
+    AnimalSkeleton: {fileID: 11400000, guid: a5e6c768205ae534194721da58f7bb38, type: 2}
+  - AnimalType: 4
+    AnimalSkeleton: {fileID: 11400000, guid: 88168c28633a8fc439715527c3bbdc91, type: 2}
+  - AnimalType: 5
+    AnimalSkeleton: {fileID: 11400000, guid: f75b8ed187404284b9dad3425005d997, type: 2}
